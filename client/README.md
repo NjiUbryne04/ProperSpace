@@ -1,4 +1,9 @@
 # React + Vite
+** Name:** NJI UBRYNE FRU
+** Matricul: ** LMUI250910
+** Deparment: ** Software Engineering
+** Course:** Programming in Javascript
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
