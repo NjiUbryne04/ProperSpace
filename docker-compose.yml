@@ -1,0 +1,35 @@
+version: '3.9'
+
+services:
+  mongo:
+    image: mongo:7
+    container_name: propspace_mongo
+    ports:
+      - '27017:27017'
+    volumes:
+      - mongo_data:/data/db
+
+  server:
+    build: ./server
+    container_name: propspace_server
+    ports:
+      - '5000:5000'
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/propspace
+      - JWT_SECRET=supersecretchangeme
+      - JWT_EXPIRES_IN=7d
+      - CLIENT_ORIGIN=http://localhost:5173
+      - NODE_ENV=production
+    depends_on:
+      - mongo
+
+  client:
+    build: ./client
+    container_name: propspace_client
+    ports:
+      - '5173:80'
+    depends_on:
+      - server
+
+volumes:
+  mongo_data:
