@@ -32,7 +32,7 @@ const FilterSidebar = ({ onFilter }) => {
           />
         </div>
         <div>
-          <label className="text-sm font-medium text-gray-700 block mb-1">Min Price ($)</label>
+          <label className="text-sm font-medium text-gray-700 block mb-1">Min Price (FCFA)</label>
           <input
             type="number"
             placeholder="0"
@@ -43,7 +43,7 @@ const FilterSidebar = ({ onFilter }) => {
           />
         </div>
         <div>
-          <label className="text-sm font-medium text-gray-700 block mb-1">Max Price ($)</label>
+          <label className="text-sm font-medium text-gray-700 block mb-1">Max Price (FCFA)</label>
           <input
             type="number"
             placeholder="Any"

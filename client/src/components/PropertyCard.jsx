@@ -19,7 +19,7 @@ const PropertyCard = ({ property, onDelete, onEdit, showActions = false }) => {
             {propertyType}
           </span>
           <span className="text-sm font-bold text-gray-900">
-            ${price.toLocaleString()}
+            {price.toLocaleString('fr-FR')} FCFA
           </span>
         </div>
         <h3 className="font-semibold text-gray-900 mb-1 line-clamp-1">

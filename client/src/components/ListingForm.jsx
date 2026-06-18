@@ -38,9 +38,9 @@ const ListingForm = ({ onSubmit, defaultValues = {}, loading }) => {
         {errors.description && <p className="text-xs text-red-500">{errors.description.message}</p>}
       </div>
       <InputField
-        label="Price ($/month) *"
+        label="Price (FCFA/month) *"
         type="number"
-        placeholder="e.g. 1200"
+        placeholder="e.g. 150000"
         error={errors.price?.message}
         {...register('price', { required: 'Price is required', min: { value: 1, message: 'Must be positive' } })}
       />

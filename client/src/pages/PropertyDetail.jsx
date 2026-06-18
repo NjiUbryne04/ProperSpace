@@ -79,7 +79,7 @@ const PropertyDetail = () => {
               </p>
             </div>
             <div className="text-right">
-              <p className="text-3xl font-bold text-gray-900">${property.price.toLocaleString()}</p>
+              <p className="text-3xl font-bold text-gray-900">{property.price.toLocaleString('fr-FR')} FCFA</p>
               <p className="text-sm text-gray-400">/month</p>
             </div>
           </div>
