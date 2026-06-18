@@ -20,7 +20,7 @@ const listings = [
     city: 'Yaoundé',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1543414347-1c348021f279?w=600&q=80'],
   },
   {
     title: 'Modern Apartment in Nlongkak',
@@ -29,7 +29,7 @@ const listings = [
     city: 'Yaoundé',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1586228046763-cd367fc926bf?w=600&q=80'],
   },
   {
     title: 'Cozy Studio in Mvan',
@@ -38,7 +38,7 @@ const listings = [
     city: 'Yaoundé',
     country: 'Cameroon',
     propertyType: 'Studio',
-    imageUrls: ['https://images.unsplash.com/photo-1484154218962-a197022b5858?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1659947234294-b217aaeb25f8?w=600&q=80'],
   },
   {
     title: 'Family Home in Mendong',
@@ -47,7 +47,7 @@ const listings = [
     city: 'Yaoundé',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1645264531554-ea687bf4591e?w=600&q=80'],
   },
   {
     title: 'Executive Flat in Omnisports',
@@ -56,7 +56,7 @@ const listings = [
     city: 'Yaoundé',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1659947234309-804b7fa01cf2?w=600&q=80'],
   },
   {
     title: 'Modern Villa in Bastos Haut',
@@ -65,7 +65,7 @@ const listings = [
     city: 'Yaoundé',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1693628773849-0286d524a82b?w=600&q=80'],
   },
   {
     title: 'Bright Studio in Essos',
@@ -74,7 +74,7 @@ const listings = [
     city: 'Yaoundé',
     country: 'Cameroon',
     propertyType: 'Studio',
-    imageUrls: ['https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1568903421626-ca0f5d72b5b2?w=600&q=80'],
   },
   {
     title: '3-Bedroom House in Biyem-Assi',
@@ -83,7 +83,7 @@ const listings = [
     city: 'Yaoundé',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1585306873915-981cc5ba5b77?w=600&q=80'],
   },
   {
     title: 'Penthouse in Centre-Ville',
@@ -92,7 +92,7 @@ const listings = [
     city: 'Yaoundé',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1600250058871-fc9ef7b397ee?w=600&q=80'],
   },
 
   // ── DOUALA ───────────────────────────────────────────────────────────────
@@ -103,7 +103,7 @@ const listings = [
     city: 'Douala',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1613977257363-707ba9348227?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1697383904769-9a0342912c68?w=600&q=80'],
   },
   {
     title: 'Modern Apartment in Bonapriso',
@@ -112,7 +112,7 @@ const listings = [
     city: 'Douala',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1646985645910-5b9b1dd7b9e2?w=600&q=80'],
   },
   {
     title: 'Studio in Akwa',
@@ -121,7 +121,7 @@ const listings = [
     city: 'Douala',
     country: 'Cameroon',
     propertyType: 'Studio',
-    imageUrls: ['https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1549139825-80d37b5f7e06?w=600&q=80'],
   },
   {
     title: 'Family Villa in Makepe',
@@ -130,7 +130,7 @@ const listings = [
     city: 'Douala',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1658872180512-7ee222963246?w=600&q=80'],
   },
   {
     title: '2-Bedroom Apartment in Logbessou',
@@ -139,7 +139,7 @@ const listings = [
     city: 'Douala',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1584738766473-61c083514bf4?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1583100524290-599c9ac2bf21?w=600&q=80'],
   },
   {
     title: 'Waterfront Villa in Bonaberi',
@@ -148,7 +148,7 @@ const listings = [
     city: 'Douala',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1576941089067-2de3c901e126?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1586700641182-0f1024626df6?w=600&q=80'],
   },
   {
     title: 'Modern Studio in Bali',
@@ -157,7 +157,7 @@ const listings = [
     city: 'Douala',
     country: 'Cameroon',
     propertyType: 'Studio',
-    imageUrls: ['https://images.unsplash.com/photo-1484154218962-a197022b5858?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1693063360140-77771b252afb?w=600&q=80'],
   },
   {
     title: '4-Bedroom House in Ndogpassi',
@@ -166,7 +166,7 @@ const listings = [
     city: 'Douala',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1591707571502-ca632624e109?w=600&q=80'],
   },
   {
     title: 'Serviced Apartment in Bonamoussadi',
@@ -175,7 +175,7 @@ const listings = [
     city: 'Douala',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1543414347-1c348021f279?w=600&q=80'],
   },
 
   // ── KRIBI ─────────────────────────────────────────────────────────────────
@@ -186,7 +186,7 @@ const listings = [
     city: 'Kribi',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1449844908441-8829872d2914?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1586228046763-cd367fc926bf?w=600&q=80'],
   },
   {
     title: 'Holiday Apartment in Kribi Centre',
@@ -195,7 +195,7 @@ const listings = [
     city: 'Kribi',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1558036117-15d82a90b9b1?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1659947234294-b217aaeb25f8?w=600&q=80'],
   },
   {
     title: 'Ocean View Studio in Kribi',
@@ -204,7 +204,7 @@ const listings = [
     city: 'Kribi',
     country: 'Cameroon',
     propertyType: 'Studio',
-    imageUrls: ['https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1645264531554-ea687bf4591e?w=600&q=80'],
   },
   {
     title: 'Eco-Lodge House in Kribi',
@@ -213,7 +213,7 @@ const listings = [
     city: 'Kribi',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1523217582562-09d0def993a6?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1659947234309-804b7fa01cf2?w=600&q=80'],
   },
 
   // ── LIMBE ─────────────────────────────────────────────────────────────────
@@ -224,7 +224,7 @@ const listings = [
     city: 'Limbe',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1600607688969-a5bfcd646154?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1693628773849-0286d524a82b?w=600&q=80'],
   },
   {
     title: 'Modern Apartment in Mile 4 Limbe',
@@ -233,7 +233,7 @@ const listings = [
     city: 'Limbe',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1619216843049-3c24f48b2d42?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1568903421626-ca0f5d72b5b2?w=600&q=80'],
   },
   {
     title: 'Cozy Studio near Limbe Beach',
@@ -242,7 +242,7 @@ const listings = [
     city: 'Limbe',
     country: 'Cameroon',
     propertyType: 'Studio',
-    imageUrls: ['https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1585306873915-981cc5ba5b77?w=600&q=80'],
   },
 
   // ── BUEA ──────────────────────────────────────────────────────────────────
@@ -253,7 +253,7 @@ const listings = [
     city: 'Buea',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1625244724120-1fd1d34d00f6?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1600250058871-fc9ef7b397ee?w=600&q=80'],
   },
   {
     title: 'Student Apartment near UB Campus',
@@ -262,7 +262,7 @@ const listings = [
     city: 'Buea',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1628744448840-55bdb2497bd4?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1697383904769-9a0342912c68?w=600&q=80'],
   },
   {
     title: 'Furnished Studio in Mile 16 Buea',
@@ -271,7 +271,7 @@ const listings = [
     city: 'Buea',
     country: 'Cameroon',
     propertyType: 'Studio',
-    imageUrls: ['https://images.unsplash.com/photo-1484154218962-a197022b5858?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1646985645910-5b9b1dd7b9e2?w=600&q=80'],
   },
   {
     title: 'Executive Residence in Buea',
@@ -280,7 +280,7 @@ const listings = [
     city: 'Buea',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1613490493576-16aced3ea972?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1549139825-80d37b5f7e06?w=600&q=80'],
   },
 
   // ── BAFOUSSAM ─────────────────────────────────────────────────────────────
@@ -291,7 +291,7 @@ const listings = [
     city: 'Bafoussam',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1624298357597-fd92dfbec01d?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1658872180512-7ee222963246?w=600&q=80'],
   },
   {
     title: '3-Bedroom Apartment in Tamdja',
@@ -300,7 +300,7 @@ const listings = [
     city: 'Bafoussam',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1583100524290-599c9ac2bf21?w=600&q=80'],
   },
   {
     title: 'Studio near Bafoussam Market',
@@ -309,7 +309,7 @@ const listings = [
     city: 'Bafoussam',
     country: 'Cameroon',
     propertyType: 'Studio',
-    imageUrls: ['https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1586700641182-0f1024626df6?w=600&q=80'],
   },
   {
     title: 'Countryside House outside Bafoussam',
@@ -318,7 +318,7 @@ const listings = [
     city: 'Bafoussam',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1592595896551-12b371d546d5?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1693063360140-77771b252afb?w=600&q=80'],
   },
 
   // ── BAMENDA ───────────────────────────────────────────────────────────────
@@ -329,7 +329,7 @@ const listings = [
     city: 'Bamenda',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1591707571502-ca632624e109?w=600&q=80'],
   },
   {
     title: '2-Bedroom Apartment in Up-Station Bamenda',
@@ -338,7 +338,7 @@ const listings = [
     city: 'Bamenda',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1584738766473-61c083514bf4?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1543414347-1c348021f279?w=600&q=80'],
   },
   {
     title: 'Studio in Commercial Avenue Bamenda',
@@ -347,7 +347,7 @@ const listings = [
     city: 'Bamenda',
     country: 'Cameroon',
     propertyType: 'Studio',
-    imageUrls: ['https://images.unsplash.com/photo-1484154218962-a197022b5858?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1586228046763-cd367fc926bf?w=600&q=80'],
   },
 
   // ── GAROUA ────────────────────────────────────────────────────────────────
@@ -358,7 +358,7 @@ const listings = [
     city: 'Garoua',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1659947234294-b217aaeb25f8?w=600&q=80'],
   },
   {
     title: 'Riverside Apartment in Garoua',
@@ -367,7 +367,7 @@ const listings = [
     city: 'Garoua',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1645264531554-ea687bf4591e?w=600&q=80'],
   },
   {
     title: 'Affordable Studio in Garoua Rive Droite',
@@ -376,7 +376,7 @@ const listings = [
     city: 'Garoua',
     country: 'Cameroon',
     propertyType: 'Studio',
-    imageUrls: ['https://images.unsplash.com/photo-1558036117-15d82a90b9b1?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1659947234309-804b7fa01cf2?w=600&q=80'],
   },
 
   // ── NGAOUNDÉRÉ ────────────────────────────────────────────────────────────
@@ -387,7 +387,7 @@ const listings = [
     city: 'Ngaoundéré',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1523217582562-09d0def993a6?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1693628773849-0286d524a82b?w=600&q=80'],
   },
   {
     title: 'Modern Apartment in Ngaoundéré',
@@ -396,7 +396,7 @@ const listings = [
     city: 'Ngaoundéré',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1619216843049-3c24f48b2d42?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1568903421626-ca0f5d72b5b2?w=600&q=80'],
   },
 
   // ── MAROUA ────────────────────────────────────────────────────────────────
@@ -407,7 +407,7 @@ const listings = [
     city: 'Maroua',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1585306873915-981cc5ba5b77?w=600&q=80'],
   },
   {
     title: 'Simple Apartment near Maroua Market',
@@ -416,7 +416,7 @@ const listings = [
     city: 'Maroua',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1600250058871-fc9ef7b397ee?w=600&q=80'],
   },
 
   // ── EBOLOWA ───────────────────────────────────────────────────────────────
@@ -427,7 +427,7 @@ const listings = [
     city: 'Ebolowa',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1697383904769-9a0342912c68?w=600&q=80'],
   },
   {
     title: 'Cozy Studio in Ebolowa Centre',
@@ -436,7 +436,7 @@ const listings = [
     city: 'Ebolowa',
     country: 'Cameroon',
     propertyType: 'Studio',
-    imageUrls: ['https://images.unsplash.com/photo-1484154218962-a197022b5858?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1646985645910-5b9b1dd7b9e2?w=600&q=80'],
   },
 
   // ── EDÉA ──────────────────────────────────────────────────────────────────
@@ -447,7 +447,7 @@ const listings = [
     city: 'Edéa',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1576941089067-2de3c901e126?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1549139825-80d37b5f7e06?w=600&q=80'],
   },
   {
     title: 'Worker Apartment near ALUCAM Edéa',
@@ -456,7 +456,7 @@ const listings = [
     city: 'Edéa',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1658872180512-7ee222963246?w=600&q=80'],
   },
 
   // ── KUMBA ─────────────────────────────────────────────────────────────────
@@ -467,7 +467,7 @@ const listings = [
     city: 'Kumba',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1583100524290-599c9ac2bf21?w=600&q=80'],
   },
   {
     title: 'Student Studio in Kumba',
@@ -476,7 +476,7 @@ const listings = [
     city: 'Kumba',
     country: 'Cameroon',
     propertyType: 'Studio',
-    imageUrls: ['https://images.unsplash.com/photo-1560185893-a55cbc8c57e8?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1586700641182-0f1024626df6?w=600&q=80'],
   },
 
   // ── BERTOUA ───────────────────────────────────────────────────────────────
@@ -487,7 +487,7 @@ const listings = [
     city: 'Bertoua',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1613977257363-707ba9348227?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1693063360140-77771b252afb?w=600&q=80'],
   },
   {
     title: 'Modern Apartment in Bertoua Centre',
@@ -496,7 +496,7 @@ const listings = [
     city: 'Bertoua',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1591707571502-ca632624e109?w=600&q=80'],
   },
   {
     title: 'Budget Studio in Bertoua',
@@ -505,7 +505,7 @@ const listings = [
     city: 'Bertoua',
     country: 'Cameroon',
     propertyType: 'Studio',
-    imageUrls: ['https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1543414347-1c348021f279?w=600&q=80'],
   },
 
   // ── NKONGSAMBA ────────────────────────────────────────────────────────────
@@ -516,7 +516,7 @@ const listings = [
     city: 'Nkongsamba',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1625244724120-1fd1d34d00f6?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1586228046763-cd367fc926bf?w=600&q=80'],
   },
   {
     title: 'Apartment in Nkongsamba Centre',
@@ -525,7 +525,7 @@ const listings = [
     city: 'Nkongsamba',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1584738766473-61c083514bf4?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1659947234294-b217aaeb25f8?w=600&q=80'],
   },
 
   // ── ADDITIONAL DOUALA & YAOUNDÉ PREMIUM ───────────────────────────────────
@@ -536,7 +536,7 @@ const listings = [
     city: 'Douala',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1617806118233-18e1de247200?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1645264531554-ea687bf4591e?w=600&q=80'],
   },
   {
     title: 'Diplomatic Villa in Bastos Yaoundé',
@@ -545,7 +545,7 @@ const listings = [
     city: 'Yaoundé',
     country: 'Cameroon',
     propertyType: 'House',
-    imageUrls: ['https://images.unsplash.com/photo-1616137422495-1e9e46e2aa1e?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1659947234309-804b7fa01cf2?w=600&q=80'],
   },
   {
     title: 'Penthouse Duplex in Douala',
@@ -554,7 +554,7 @@ const listings = [
     city: 'Douala',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1615529162924-f8605388461d?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1693628773849-0286d524a82b?w=600&q=80'],
   },
   {
     title: 'Garden Apartment in Yaoundé Quartier Lac',
@@ -563,7 +563,7 @@ const listings = [
     city: 'Yaoundé',
     country: 'Cameroon',
     propertyType: 'Apartment',
-    imageUrls: ['https://images.unsplash.com/photo-1598228723793-50e3ad52b3b2?w=600&q=80'],
+    imageUrls: ['https://images.unsplash.com/photo-1568903421626-ca0f5d72b5b2?w=600&q=80'],
   },
 ];
 
